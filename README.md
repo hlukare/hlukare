@@ -59,15 +59,16 @@
 
 ## 🌐 Connect with Me
 
-- 💬 [LinkedIn](www.linkedin.com/in/lukare-harish)
-- 📝 [Medium Blog]([https://medium.com/@hlukare](https://medium.com/@harishlukare6)
-- 📸 [Instagram]([https://instagram.com/hlukare](https://www.instagram.com/harish_lukare/?igsh=MWs5aWlhMHVkMnF0dA%3D%3D#)
+- 💬 [LinkedIn](https://www.linkedin.com/in/lukare-harish)
+- 📝 [Medium Blog](https://medium.com/@harishlukare6)
+- 📸 [Instagram](https://www.instagram.com/harish_lukare/)
+
 
 ---
 
 ## 📈 GitHub Stats
 
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlukare&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlukare&layout=compact&theme=radical)
 
 ---
