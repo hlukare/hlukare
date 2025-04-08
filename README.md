@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Harish Lukare</h1>
 
-<!--
-**hlukare/hlukare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI/ML-Enthusiast-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/CGPA-9.46-blue.svg" />
+  <img src="https://img.shields.io/badge/Role-Prefinal%20Year%20CSE%20Student-orange.svg" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 I'm a **pre-final year Computer Engineering student** passionate about crafting impactful tech solutions.  
+💡 With a strong foundation in **AI/ML**, **Generative AI**, and **Software Development**, I bring innovative ideas to life through design, code, and deployment.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon (SIH) 2024** – Winner
+- 🥇 **Hack-a-Sol** – Winner
+- 🏅 **TechSanjivani 25** – Winner
+- 🎯 **HackFest** – Finalist
+- 🎖️ Multiple **national-level hackathon victories**
+- 🌐 Lead Developer of live client websites & AI-powered apps
+
+---
+
+## 💼 Projects (Live)
+
+- 🔗 [NASA: Climate and Gender effect on each other](https://sync-space1.netlify.app/)
+- 🔗 [Charitable trust website](https://imdpct.netlify.app/)
+
+---
+
+## 🧠 Tech Interests
+
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🔗 **Blockchain**
+- ☁️ **Cloud Computing**
+- 🌐 **MERN Stack Development**
+- 🧱 **System Design & Architecture**
+- 🛡️ **Cybersecurity & Computer Networks**
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+
+- 💬 [LinkedIn](www.linkedin.com/in/lukare-harish)
+- 📝 [Medium Blog]([https://medium.com/@hlukare](https://medium.com/@harishlukare6))
+- 📸 [Instagram]([https://instagram.com/hlukare](https://www.instagram.com/harish_lukare/?igsh=MWs5aWlhMHVkMnF0dA%3D%3D#))
+
+---
+
+## 📈 GitHub Stats
+
+![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlukare&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlukare&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Collaborate!
+
+🚀 Open to exciting collaborations in AI/ML, Full-stack projects, research, and hackathons.  
+💬 Feel free to connect and discuss your ideas!
