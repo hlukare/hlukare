@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hello, I'm Harish Lukare</h1>
 
 <p align="center">
+  <a href="https://hlukare.vercel.app/">🌐 Visit My Portfolio</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/AI/ML-Enthusiast-brightgreen.svg" />
   <img src="https://img.shields.io/badge/CGPA-9.46-blue.svg" />
   <img src="https://img.shields.io/badge/Role-Prefinal%20Year%20CSE%20Student-orange.svg" />
