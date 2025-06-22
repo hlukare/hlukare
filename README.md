@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI/ML-Enthusiast-brightgreen.svg" />
+<!--   <img src="https://img.shields.io/badge/AI/ML-Enthusiast-brightgreen.svg" /> -->
   <img src="https://img.shields.io/badge/CGPA-9.46-blue.svg" />
   <img src="https://img.shields.io/badge/Role-Final%20Year%20CSE%20Student-orange.svg" />
 </p>
