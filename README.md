@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI/ML-Enthusiast-brightgreen.svg" />
   <img src="https://img.shields.io/badge/CGPA-9.46-blue.svg" />
-  <img src="https://img.shields.io/badge/Role-Prefinal%20Year%20CSE%20Student-orange.svg" />
+  <img src="https://img.shields.io/badge/Role-final%20Year%20CSE%20Student-orange.svg" />
 </p>
 
 ---
