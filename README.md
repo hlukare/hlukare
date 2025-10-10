@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I'm Harish Lukare</h1>
+<h1 align="center">Hello, I'm Harish Lukare</h1>
 
 <p align="center">
-  <a href="https://hlukare.vercel.app/">🌐 Visit My Portfolio</a>
+  <a href="https://hlukare.vercel.app/">Visit My Portfolio</a>
 </p>
 
 <p align="center">
