@@ -5,79 +5,114 @@
 </p>
 
 <p align="center">
-<!--   <img src="https://img.shields.io/badge/AI/ML-Enthusiast-brightgreen.svg" /> -->
-  <img src="https://img.shields.io/badge/CGPA-9.46-blue.svg" />
-  <img src="https://img.shields.io/badge/Role-Final%20Year%20CSE%20Student-orange.svg" />
+  <img src="https://img.shields.io/badge/CGPA-9.44-blue.svg" />
+  <img src="https://img.shields.io/badge/Final%20Year-Computer%20Engineering-orange.svg" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a **final year Computer Engineering student** passionate about crafting impactful tech solutions.  
-With a strong foundation in **AI/ML**, **Generative AI**, and **Software Development**, I bring innovative ideas to life through design, code, and deployment.
+I am a **final-year B.Tech Computer Engineering student** at  
+**K. K. Wagh Institute of Engineering Education & Research, Nashik**.
+
+I have a strong foundation in **software engineering, backend development, and AI-driven systems**, with hands-on experience building **production-ready applications**, backend APIs, and cloud-integrated solutions through internships, academic projects, and hackathons.
 
 ---
 
 ## Achievements
 
-- **Smart India Hackathon (SIH) 2024** – Winner
-- **Hack-a-Sol** – Winner
-- **TechSanjivani 25** – Winner
-- **HackFest** – Finalist
-- Multiple **national-level hackathon victories**
-- Lead Developer of live client websites & AI-powered apps
+- **Smart India Hackathon (SIH) 2024** – National Winner (Team Lead)
+- **Tech Sanjivani 2025** – Winner (Team Lead)
+- **iDEA Hackathon 2025** – AIR 17 (Team Lead, Team TechSpectra)
+- Ranked **1st in FY, 2nd in SY, 1st in TY** at institute level
+- Joint Secretary, **CSI Nashik Chapter (KKWIEER)**
 
 ---
 
-## Projects (Live)
+## Experience
 
-- 🔗 [NASA: Climate and Gender effect on each other](https://sync-space1.netlify.app/)
-- 🔗 [Charitable trust website](https://imdpct.netlify.app/)
-
----
-
-## Tech Interests
-
-- **Artificial Intelligence & Machine Learning**
-- **Blockchain**
-- **Cloud Computing**
-- **MERN Stack Development**
-- **System Design & Architecture**
-- **Cybersecurity & Computer Networks**
+**Full Stack Developer Intern**  
+**iNew Technologies LLP** | Jul 2026 – Present  
+- Deployed client websites using React, GitHub, and GoDaddy
+- Improved page load performance by ~300ms through optimizations
+- Collaborated with senior developers on backend workflows and payment integration
 
 ---
 
-## Tech Stack
+## Projects
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### MultiCloud Snapshot System
+- Node.js backend to automate AWS EC2 volume snapshots
+- Stored metadata in MongoDB with scalable, multi-region design  
+**Tech:** Node.js, Express.js, AWS SDK, MongoDB
+
+### QueryMate – Secure Banking Assistant
+- AI-driven system handling 500+ daily video queries
+- Achieved 95% classification accuracy and 70% faster ticket generation  
+**Tech:** Python (Flask, spaCy, TensorFlow Lite), PostgreSQL, Redis, Android, React
+
+### Other Projects
+- **AI-Powered Classroom Monitoring System** – activity classification & institutional scoring
+- **Face Anti-Spoofing System** – liveness detection with 98% accuracy
+- **EDukaan** – multilingual AI product listing app for SME sellers
 
 ---
 
-## Connect with Me
+## Technical Skills
 
-- [LinkedIn](https://www.linkedin.com/in/lukare-harish)
-- [Medium Blog](https://medium.com/@harishlukare6)
-- [Instagram](https://www.instagram.com/harish_lukare/)
+**Programming Languages**
+- C / C++
+- Python
+- SQL
 
+**Backend & Systems**
+- Node.js, Express.js
+- REST APIs
+- PostgreSQL, MongoDB
+- Redis (basic)
+
+**AI / ML**
+- NLP with spaCy
+- Computer Vision with OpenCV
+- Model integration & inference
+
+**Tools & Platforms**
+- Git, GitHub
+- AWS (EC2, SDK)
+- Postman
+- Linux
+- Jupyter, Google Colab
+
+**Core CS**
+- Data Structures & Algorithms (LeetCode max rating: 1494)
+- OOP, DBMS, Operating Systems
+
+---
+
+## Live Work
+
+- https://www.siddharthstarch.com/
+- https://sync-space1.netlify.app/
+- https://imdpct.netlify.app/
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/lukare-harish
+- GitHub: https://github.com/hlukare
+- Medium: https://medium.com/@harishlukare6
 
 ---
 
 ## GitHub Stats
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlukare&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let's Collaborate!
+## Collaboration
 
-Open to exciting collaborations in AI/ML, Full-stack projects, research, and hackathons.  
-Feel free to connect and discuss your ideas!
+Open to opportunities in **Software Engineering**, **Backend Systems**, and **AI-enabled applications**.  
+Happy to collaborate on impactful projects and research-oriented work.
