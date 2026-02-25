@@ -32,8 +32,11 @@ I have a strong foundation in **software engineering, backend development, and A
 
 ## Experience
 
+**Software Engineering Intern**  
+**Josh Software Pvt. Ltd.** | Jan 2026 – Present  
+
 **Full Stack Developer Intern**  
-**iNew Technologies LLP** | Jul 2026 – Present  
+**iNew Technologies LLP** | Jul 2025 – Dec 2025  
 - Deployed client websites using React, GitHub, and GoDaddy
 - Improved page load performance by ~300ms through optimizations
 - Collaborated with senior developers on backend workflows and payment integration
